@@ -2,64 +2,63 @@
 
 ## Project Overview
 
-This personal portfolio demonstrates my understanding of first-line IT support, structured troubleshooting, helpdesk ticket documentation and technical knowledge-base creation.
+This is a personal IT support portfolio demonstrating my understanding of first-line troubleshooting, helpdesk ticket documentation, account security and technical knowledge-base creation.
 
-It covers common IT support scenarios and shows how issues can be investigated, documented and escalated when necessary.
+The project covers common IT support scenarios and demonstrates a structured approach to investigating issues, documenting findings and identifying when escalation is necessary.
 
-**Project type:** Personal learning and portfolio project  
-**Target roles:** IT Helpdesk, 1st Line Support, Service Desk and Junior IT Support
+**Target roles:** IT Helpdesk, 1st Line Support, Service Desk and Junior IT Support.
 
-## Objectives
-
-- Document troubleshooting procedures for common IT problems.
-- Practise structured problem investigation and issue diagnosis.
-- Create example helpdesk tickets with symptoms, actions and escalation criteria.
-- Develop clear technical documentation for users and support teams.
-- Understand the importance of security, accurate records and user confirmation.
-
-## Project Structure
+## Project Contents
 
 ### Troubleshooting Guides
-- Wi-Fi connected but no internet.
-- Windows login problems.
+- Wi-Fi connected but no internet
+- Windows login problems
 
 ### Practice Helpdesk Tickets
-- HD-001: Slow computer.
-- HD-002: Printer not printing.
+- HD-001: Slow computer
+- HD-002: Printer not printing
+- HD-003: Account locked
+- HD-004: No internet connection
 
 ### Knowledge Base
-Reusable documentation and guidance for common IT support scenarios.
+- Password reset and account security
 
-## Troubleshooting Approach
+### Reusable Templates
+- Helpdesk ticket documentation template
 
-1. Gather information from the user.
-2. Identify the symptoms and scope of the issue.
+## Troubleshooting Methodology
+
+My approach follows these steps:
+
+1. Gather information and clarify the symptoms.
+2. Establish the scope and impact of the issue.
 3. Perform appropriate initial checks.
-4. Record actions and findings.
-5. Confirm the outcome or escalate the issue.
-6. Document the resolution and relevant lessons learned.
-
-## Security and Professional Practice
-
-The guides emphasise protecting passwords, following organisational procedures, working within authorised permissions and escalating issues when appropriate.
-
-## Tools Used
-
-- macOS and TextEdit for creating documentation.
-- Markdown for structured technical documents.
-- GitHub for portfolio presentation.
-
-## Project Status
-
-This is an ongoing personal learning project. The tickets are simulated scenarios, not records of real customer incidents.
+4. Record troubleshooting actions and results.
+5. Confirm resolution or escalate when necessary.
+6. Document the outcome and lessons learned.
 
 ## Skills Demonstrated
 
-- IT troubleshooting methodology
-- Helpdesk ticket documentation
-- Technical writing
-- Issue investigation and escalation
+- First-line IT troubleshooting
+- Incident and ticket documentation
+- Technical writing and knowledge-base creation
+- Basic networking and connectivity investigation
+- Account access and security awareness
+- Issue prioritisation and escalation
 - Customer-support communication principles
-- Basic IT security awareness
-- Knowledge-base organisation
-- GitHub documentation
+- GitHub and Markdown documentation
+
+## Security and Professional Practice
+
+The documentation emphasises identity verification, protecting passwords and authentication codes, following authorised procedures, and escalating issues beyond first-line permissions.
+
+## Tools Used
+
+- GitHub
+- Markdown
+- macOS and TextEdit for documentation
+
+## Project Status
+
+This is an ongoing personal learning project. All practice tickets are simulated scenarios, not records of real customer incidents. Simulated resolutions are clearly identified as examples.
+
